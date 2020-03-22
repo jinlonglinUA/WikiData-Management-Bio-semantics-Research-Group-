@@ -1,0 +1,8 @@
+// Extract user's recent change in wikidate webpage the publisher submitted
+https://www.mediawiki.org/wiki/API:RecentChanges
+
+//Extract user's get_revisions in wikidate webpage the publisher submitted
+https://github.com/maxlath/wikidata-sdk/blob/master/docs/get_revisions.md
+
+// The open source project for wikidata master
+https://github.com/maxlath/wikidata-sdk

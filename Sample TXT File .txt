@@ -1,0 +1,327 @@
+{
+    "entries": [
+        {
+            "parentTerm": "material anatomical entity", 
+            "resultAnnotations": [
+                {
+                    "property": "http://www.geneontology.org/formats/oboInOwl#id", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#leaf"
+                }, 
+                {
+                    "property": "http://purl.obolibrary.org/obo/BFO_0000050", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#Whole%20Organism"
+                }, 
+                {
+                    "property": "http://www.w3.org/2000/01/rdf-schema#label", 
+                    "value": "leaf"
+                }, 
+                {
+                    "property": "http://www.geneontology.org/formats/oboInOwl#creation_date", 
+                    "value": "2018/02/01"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#bladeless"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#larger%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#basal%20and%20proximal%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath%20apex"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#proximal%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath-blade%20junction"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#enfolding%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#apical%20margin"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#proximal%20leaf-blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#rachillum"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#proximalmost%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#beak%20tooth"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#distal%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#distal%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#longest%20bract%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#bladed"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#bract%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#lateral%20adaxial%20vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#teeth"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#leaf-blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath%20front"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#proximal%20margin"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#subtending%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#main%20vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#adaxial%20vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#scale%20body"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#scale%20apex"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath%20summits%20collar"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath%20front%20apex"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#lateral-vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#midvein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#blade%20surface"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#marginal%20vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#proximal%20bract%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#widest%20leaf-blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#distalmost%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#basal%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#scale%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#ligule"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#proximal%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#margin"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#distal%20leaf-blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#largest%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#basal%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#widest%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#inflorescence%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#widest%20bract%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#longest%20ligule"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath%20summit"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#abaxial%20margin"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#stamimate%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#marginal%20tooth"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#cross-vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#distal%20bract%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#tooth"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#finer%20vein"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#distal%20ligule"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#leaf-base"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#longest%20scale"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#nonbasal%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#cauline%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#scale%20tip"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#rachis"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#rachilla"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#sheath%20blade"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#apical%20tooth"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#proximal%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#bract%20sheath"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#distal%20margin"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#enfolding%20margin"
+                }, 
+                {
+                    "property": "has part", 
+                    "value": "http://biosemantics.arizona.edu/ontologies/carex#middle%20scale"
+                }
+            ], 
+            "score": 1.0, 
+            "term": "leaf"
+        }
+    ]
+}
