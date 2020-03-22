@@ -1,3 +1,7 @@
+### Created by Jinlong Lin
+### My personal main page https://www2.cs.arizona.edu/~jinlonglin/
+###  Bio-semantics Research Group is led by Professor Hong Cui
+
 import wiki
 import property
 import sys
